@@ -4,4 +4,4 @@ Competition, IIT Bombay. Used Gazebo Simulation
 and Python Scripts to make a Robot reach its goal
 locations.
 
-![alt text] (simulation.jpg)
+![alt text](simulation.jpg)
